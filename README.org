@@ -1,0 +1,10 @@
+* hunchentoot-multi-acceptor
+
+Route multiple domains (virtual hosts) on a single hunchentoot acceptor using a single port
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/moderninterpreters/hunchentoot-multi-acceptor.git   |
+| commit  | 51cc48d  |
+| systems | hunchentoot-multi-acceptor |
+|---------+-------------------------------------------|
+
